@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAEA,iBACI,qBACJ,CAEA,iBACI,wBACJ","file":"style.073ddef0.css","sourceRoot":"..","sourcesContent":["\n\n.background-home{\n    background-color: yellow;\n}\n\n.background-book{\n    background-color: skyblue;\n}"]}
