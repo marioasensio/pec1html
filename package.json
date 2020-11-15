@@ -1,0 +1,18 @@
+{
+  "name": "pec1herramientas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.0.2",
+    "cssnano": "^4.1.10",
+    "postcss": "^8.1.7"
+  }
+}
